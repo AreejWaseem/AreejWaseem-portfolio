@@ -309,3 +309,324 @@
     </div>
 </body>
 </html>
+Hide quoted text
+
+---------- Forwarded message ---------
+From: AREEJ WASEEM <s2023266068@umt.edu.pk>
+Date: Sun, 17 Nov 2024, 4:52 pm
+Subject: cv with audio vidoe links
+To: AREEJ WASEEM <s2023266068@umt.edu.pk>, <awais123akram@gmail.com>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AREEJ WASEEM</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Times New Roman', Times, serif, 'Times New Roman', Times, serif;
+        }
+
+        /* Layout */
+        body {
+            display: flex;
+            justify-content: center;
+            background-color: #ffffff;
+            padding: 20px;
+        }
+
+        .container {
+            display: flex;
+            max-width: 900px;
+            width: 100%;
+            background: #faf9f5;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 30%;
+            background-color: #075e4875;
+            color: #000000;
+            padding: 20px;
+            border-radius: 8px 0 0 8px;
+            text-align: center;
+        }
+
+        .sidebar img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            margin-bottom: 15px;
+            border: 3px solid #095b56a2;
+        }
+
+        .sidebar h1 {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+
+        .sidebar p {
+            font-size: 16px;
+            margin-bottom: 15px;
+            color: #90922fc4;
+        }
+
+        .contact-info {
+            text-align: left;
+            margin-top: 20px;
+        }
+
+        .contact-info div {
+            margin-bottom: 10px;
+            font-size: 14px;
+            color: #000000;
+        }
+
+        /* Main Content */
+        .main-content {
+            width: 70%;
+            padding: 20px;
+        }
+
+        .main-content h2 {
+            font-size: 20px;
+            color: #000000;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .section p,
+        .section ul {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #000000;
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        
+        table {
+            width: 70%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            font-family: 'Times New Roman', Times, serif,'Times New Roman', Times, serif;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        .skills ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        table {
+            width: 70%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            font-family: 'Times New Roman', Times, serif,'Times New Roman', Times, serif;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        caption {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .project-card {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            width: calc(50% - 10px); /* 2 cards per row */
+        }
+
+        .project-card h3 {
+            font-size: 18px;
+            color: #4CAF50;
+            margin-bottom: 10px;
+        }
+
+        .project-card p {
+            font-size: 14px;
+            color: #333333;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Sidebar with Picture and Contact Info -->
+    <div class="sidebar">
+        <img src="areej.jpg" alt="Profile Picture">
+        <h1>AREEJ WASEEM</h1>
+       
+        <div class="contact-info">
+    
+            <div>✉️Email:areejwaseem@umt.edu.pk</div>
+            <br>
+            <div>📱Phone:03094039196</div>
+            <br>
+            <div>🔗LinkedIn: linkedin.com/in/yourprofile</div>
+            <br>
+            <div>🐙<a href="https://github.com/users/AreejWaseem/projects/1/views/1">GitHub</a></div>
+            <br>
+            <br>
+        </div>
+    </div>
+
+    <!-- Main Content Sections -->
+    <div class="main-content">
+        <!-- Professional Summary Section -->
+        <section class="section">
+            <h2>Professional Summary</h2>
+            <P>Experienced educator and academic manager with 4+ years in teaching and administration. Skilled in math instruction, student engagement, and operational management, fostering academic excellence and growth.</P>
+        </section>
+
+        <!-- Work Experience Section -->
+        <section class="section">
+            <h2>Work Experience</h2>
+            <ul>
+                <li>TEACHER – Tayyaba Science Academy, Green Town Lahore (2021 - 2024)</li>
+                <p>- Responsible for managing the entire academy system, including administrative tasks, curriculum planning, and student affairs. Additionally, I teach mathematics along with other subjects, providing a comprehensive educational experience for students.</p>
+                <li>Home Tuitions – (2020-2021)</li>
+                <p>- I provide home tuition, covering all subjects.</p>
+            </ul>
+        </section>
+
+        <!-- Life Goals Section -->
+    <section class="section">
+        <h2>Life Goals</h2>
+        <ul>
+            <li>To become a leader in the education sector, creating a positive impact on students' lives.</li>
+            <li>To continuously improve my skills in digital marketing and programming to adapt to the changing technological landscape.</li>
+            <li>To pursue further education and certifications to contribute to personal and professional growth.</li>
+            <li>To develop innovative solutions for educational institutions, making them more accessible and effective.</li>
+            <li>To inspire and mentor future generations of learners and educators.</li>
+        </ul>
+    </section>
+
+        <!-- Education Section -->
+        <h2 style="text-align: center;">Education</h2>
+
+        <table>
+            <tr>
+                <th>Degree</th>
+                <th>Institution</th>
+                <th>Year</th>
+            </tr>
+            <tr>
+                <td>Bachelor’s in Computer Sciences</td>
+                <td>University of Management and Technology (UMT)</td>
+                <td>2023 - 2027</td>
+            </tr>
+            <tr>
+                <td>Digital Marketing</td>
+                <td>Theeta Training</td>
+                <td>2024</td>
+            </tr>
+            <tr>
+                <td>FSC Pre Medical</td>
+                <td>Superior Group Of Colleges</td>
+                <td>2020-2022</td>
+            </tr>
+            <tr>
+                <td>Matriculation</td>
+                <td>Tayyaba School System</td>
+                <td>2018-2020</td>
+            </tr>
+        </table>
+
+        <div class="section skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Management Leader</li>
+                <li>Teaching</li>
+                <li>Mathematics Instruction</li>
+                <li>Student Motivation</li>
+                <li>Time Management</li>
+                <li>Digital Marketing</li>
+            </ul>
+        </div>
+
+<table>
+    <caption>Technical Skills</caption>
+    <tr>
+        <th>Category</th>
+        <th>Skills</th>
+    </tr>
+    <tr>
+        <td>Programming Languages</td>
+        <td>C++, HTML, JavaScript, etc.</td>
+    </tr>
+    <tr>
+        <td>Digital Marketing</td>
+        <td>facebook ADs, Email Marketing , google ADs</td>
+    </tr>
+    
+</table>
+<section class="section">
+    <h2>Projects</h2>
+    <div class="projects">
+        <div class="project-card">
+            <h3>Project 1: Website Development</h3>
+            <p>Developed a fully responsive website for a local business using WordPress.</p>
+        </div>
+        <div class="project-card">
+            <h3>Project 2: University Management System</h3>
+            <p>Developed and implemented a University Management System using C++ by implementing OOP.</p>
+        </div>
+        <div class="project-card">
+            <h3>Project 3: Library Management System</h3>
+            <p>Developed and implemented a Library Management System using C++ by implementing Programming Fundamentals.</p>
+        </div>
+        <div class="project-card">
+            <h3>Project 4: University Management System</h3>
+            <p>Developed and implemented a University Management System using Data Structures.</p>
+        </div>
+        <div>📺<a href="https://youtube.com/@apnacollegeofficial?si=iANzvgqYMpcPhcdK">prepared from</a></div>
+    </div>
+</section>
+<audio controls loop>
+    <source src="audio.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+<div>📺<a href="https://youtu.be/j9tg4FpcB2I?si=vPCst7P5sGwjNche">Motivation</a></div>
+</div>
+    </div>
+</body>
+</html>
+
